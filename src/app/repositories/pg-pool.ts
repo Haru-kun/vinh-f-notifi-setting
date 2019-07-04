@@ -14,8 +14,6 @@ export abstract class PgPool{
                 user: config.username,
                 password: config.password,
                 port: config.port,
-                ssl: config.ssl,
-                max: config.pool.max,
                 min: config.pool.min,
                 idleTimeoutMillis: config.idleTimeoutMillis
             });
