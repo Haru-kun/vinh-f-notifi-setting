@@ -63,6 +63,6 @@
     "pg-pool": "^1.5.0",
     "pg-promise": "^5.3.4",
     "reflect-metadata": "^0.1.8",
-    "sequelize": "^3.24.3"
+    "sequelize": "^6.3.5"
   }
 }
